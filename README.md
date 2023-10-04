@@ -1,4 +1,4 @@
-# GATShip_vue.js
+# Gat_Ship
 Shift schedule web application for the real client GatShip
 
 This is a Shift scheduleing web app where the leaders of different shipping docks can make a schedule for their workers.
